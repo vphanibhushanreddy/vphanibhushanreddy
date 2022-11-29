@@ -11,7 +11,7 @@ Eclipse/ VSCodium/ STS /Toad
 
 Currently pursuing Azure Architect Certification. 
 
-You can actively find me on @Stackoverlow / Spring Community 
+You can actively find me on <a href="https://stackoverflow.com/users/197532/phani">@Stackoverlow</a> / <a href="https://www.linkedin.com/in/pbreddy/">LinkedIn</a>
 
 <!---
 vphanibhushanreddy/vphanibhushanreddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
