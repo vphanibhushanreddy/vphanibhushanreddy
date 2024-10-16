@@ -1,4 +1,4 @@
-Hi, I'm Phani Vemi, a passionate Full Stack Developer/Sol. Architect who have always  trying to focus on solving problems for customers irrespective of technology stack.
+Hi, I'm Phani Vemi, a passionate engineer who have always  trying to focus on solving problems for customers irrespective of technology stack.
 
 
 I'm also an avid supporter of open-source softwares and have been supporter of Fedora at one point. Currently, following the various trends in terms of Cloud/IoT development
